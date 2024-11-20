@@ -31,8 +31,8 @@ Experimental results confirm that our method significantly enhances performance 
 First, create your environment. We recommend using the following comments. 
 
 ```
-git clone https://github.com/CFGpp-diffusion/CFGpp.git
-cd CFGpp
+git clone https://github.com/vision-xl/codes.git
+cd vision-xl/codes
 conda env create -f environment.yaml
 ```
 
