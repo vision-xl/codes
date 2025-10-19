@@ -1,4 +1,4 @@
-# VISION XL: High Definition Video Inverse Problem Solver using Latent Diffusion Models
+# [ICCV 2025] VISION XL: High Definition Video Inverse Problem Solver using Latent Diffusion Models
 
 This repository is the official implementation of "VISION XL: High Definition Video Inverse Problem Solver using Latent Diffusion Models".
 <!-- [](https://arxiv.org/abs/2406.08070v1). -->
@@ -6,7 +6,7 @@ This repository is the official implementation of "VISION XL: High Definition Vi
 ![main figure](assets/main_figure.jpg)
 
 [![Project Website](https://img.shields.io/badge/Project-Website-blue)](https://vision-xl.github.io/)
-<!-- [![arXiv](https://img.shields.io/badge/arXiv-2412.00156-b31b1b.svg)](https://arxiv.org/abs/2412.00156) -->
+[![arXiv](https://img.shields.io/badge/arXiv-2412.00156-b31b1b.svg)](https://arxiv.org/abs/2412.00156)
 
 ---
 ## ✨ Summary
@@ -76,14 +76,14 @@ python -m examples.video_recon $SAMPLE_FLAGS
 ## 📝 Citation
 If you find our method useful, please leave a star to this repository.
 
-<!-- ```
-@article{chung2024cfg++,
-  title={CFG++: Manifold-constrained Classifier Free Guidance for Diffusion Models},
-  author={Chung, Hyungjin and Kim, Jeongsol and Park, Geon Yeong and Nam, Hyelin and Ye, Jong Chul},
-  journal={arXiv preprint arXiv:2406.08070},
+```
+@article{kwon2024vision,
+  title={VISION-XL: High Definition Video Inverse Problem Solver using Latent Image Diffusion Models},
+  author={Kwon, Taesung and Ye, Jong Chul},
+  journal={arXiv preprint arXiv:2412.00156},
   year={2024}
 }
-``` -->
+```
 
 > [!note]
 > This repository build from official repository of [CFG++]((https://arxiv.org/abs/2406.08070v1)).
