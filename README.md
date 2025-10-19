@@ -74,7 +74,7 @@ python -m examples.video_recon $SAMPLE_FLAGS
 
 
 ## 📝 Citation
-If you find our method useful, please leave a star to this repository.
+If you find our method useful, please cite our paper and leave a star to this repository :)
 
 ```
 @article{kwon2024vision,
@@ -87,4 +87,3 @@ If you find our method useful, please leave a star to this repository.
 
 > [!note]
 > This repository build from official repository of [CFG++]((https://arxiv.org/abs/2406.08070v1)).
-> This work is currently in the preprint stage, and there may be some changes to the code.
