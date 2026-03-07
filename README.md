@@ -77,11 +77,12 @@ python -m examples.video_recon $SAMPLE_FLAGS
 If you find our method useful, please cite our paper and leave a star to this repository :)
 
 ```
-@article{kwon2024vision,
+@inproceedings{kwon2025vision,
   title={VISION-XL: High Definition Video Inverse Problem Solver using Latent Image Diffusion Models},
   author={Kwon, Taesung and Ye, Jong Chul},
-  journal={arXiv preprint arXiv:2412.00156},
-  year={2024}
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={10465--10474},
+  year={2025}
 }
 ```
 
